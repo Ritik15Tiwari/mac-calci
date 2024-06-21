@@ -1,4 +1,4 @@
-# macOS Scientific Calculator Clone
+# Scientific Calculator MACOS
 
 ## Overview
 Welcome to the macOS Scientific Calculator Clone! This project is a web-based replica of the macOS Scientific Calculator, built using React. The goal of this assignment is to showcase proficiency in front-end development, state management, and the ability to replicate sophisticated UI and UX.
